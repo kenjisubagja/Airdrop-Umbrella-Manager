@@ -13,13 +13,11 @@
     <img src="https://img.shields.io/badge/Lisensi-MIT-yellow" alt="license">
   </a>
   <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/pulls">
-    <img src="https://img.shields.io/badge/PRs-dipersilakan-brightgreen" alt="prs welcome">
   </a>
 </p>
 
 <p align="center">
-  <!-- Letakkan GIF demo di docs/demo.gif -->
-  <img src="docs/demo.gif" alt="Demo Airdrop Garapan Manager" width="820">
+  <img src="https://github.com/kenjisubagja/coba/blob/main/WhatsApp%20Image%202025-08-28%20at%2021.45.03_c2760938.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
 </p>
 
 Aplikasi desktop **offline** (Electron) untuk mengatur garapan airdrop.  
@@ -47,9 +45,9 @@ Kelola **Tasks**, **Bridge**, dan **Faucet** dengan cepat, simpel, dan **privat 
 ## 📦 Unduh (Pengguna)
 
 Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases)** dan ambil:
-- `Airdrop-Garapan-Manager-Setup-x.y.z.exe` → **Installer** (disarankan)  
+- `Airdrop-Umbrella-Manager-Setup-1.0.0.exe` → **Installer** (disarankan)  
   Membuat **shortcut di Desktop & Start Menu** otomatis.
-- `Airdrop-Garapan-Manager-Portable-x.y.z.exe` → **Portable** (tanpa instal; **tidak** membuat shortcut otomatis).
+- `Airdrop-Umbrella-Manager-Portable-1.0.0.exe` → **Portable** (tanpa instal; **tidak** membuat shortcut otomatis).
 
 > Windows SmartScreen bisa muncul karena aplikasi belum code-signed.  
 > Klik **More info → Run anyway**.
