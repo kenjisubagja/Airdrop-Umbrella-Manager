@@ -49,7 +49,7 @@ Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-M
 - `Airdrop-Umbrella-Manager-Setup-1.0.0.exe` → **Installer** (disarankan)  
   Membuat **shortcut di Desktop & Start Menu** otomatis.
 - `Airdrop-Umbrella-Manager-Portable-1.0.0.exe` → **Portable** (tanpa instal; **tidak** membuat shortcut otomatis).
-- `Airdrop-Umbrella-Manager-Setup-1.0.0.apk` → ini buat user android 
+- `Airdrop-Umbrella-Manager-Setup-1.0.0.apk` → ini buat user android note ya, pasti ada keterangan dari play protect, ijingkan aja, kalau pun di scan juga gpp kok
 
 > Windows SmartScreen bisa muncul karena aplikasi belum code-signed.  
 > Klik **More info → Run anyway**.
