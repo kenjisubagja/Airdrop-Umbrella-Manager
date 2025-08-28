@@ -37,7 +37,7 @@ Kelola **Tasks**, **Bridge**, dan **Faucet** dengan cepat, simpel, dan **privat 
   - **Cari & Filter** (Ongoing / End / Selesai).
   - **Pagination**: pilih **5 / 10 / 25** baris per halaman (default 5) + **Prev/Next**.
 - **Bridge** & **Faucet**
-  - Simpan “Ke mana” + “Link”, **Open**, **Edit**, **Hapus**.
+  - Simpan “Bridge ke” + “Link”, **Open**, **Edit**, **Hapus**.
 - **Buka link via Chrome** (fallback ke browser default jika Chrome tidak ada).
 - **Offline & Privat** — data disimpan lokal di profil aplikasi (`localStorage`).
 
