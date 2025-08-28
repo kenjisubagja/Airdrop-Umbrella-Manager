@@ -7,6 +7,7 @@
   <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="platform">
+  <img src="https://img.shields.io/badge/Platform-Android-green?logo=android&logoColor=white" alt="platform-android">
   <img src="https://img.shields.io/badge/Node-%E2%89%A518-339933?logo=nodedotjs&logoColor=white" alt="node">
   <img src="https://img.shields.io/badge/Electron-31.x-47848F?logo=electron&logoColor=white" alt="electron">
   <a href="LICENSE">
