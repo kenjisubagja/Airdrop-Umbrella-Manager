@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/v/release/kenjisubagja/Airdrop-Umbrella-Manager?sort=semver&label=rilis" alt="rilis terbaru">
   </a>
   <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases">
-    <img src="https://img.shields.io/github/downloads/kenjisubagja/Airdrop-Umbrella-Manager/total?label=unduhan" alt="total unduhan">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="platform">
   <img src="https://img.shields.io/badge/Node-%E2%89%A518-339933?logo=nodedotjs&logoColor=white" alt="node">
