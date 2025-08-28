@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kenjisubagja/coba/blob/main/WhatsApp%20Image%202025-08-28%20at%2021.45.03_c2760938.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
+  <img src="https://github.com/kenjisubagja/coba/blob/main/photo_2025-08-29_02-22-30.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
 </p>
 
 Aplikasi desktop **offline** (Electron) untuk mengatur garapan airdrop.  
