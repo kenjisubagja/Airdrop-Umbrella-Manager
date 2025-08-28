@@ -74,10 +74,12 @@ Output build
 
 ```win-unpacked/``` — Folder portable mentah.
 
-Berkas utama
+Berkas utama (PC)
 - ```main.js ```      → proses utama Electron (window, path)
 - ```preload.js```    → jembatan aman untuk buka link via Chrome
 - ```index.html```    → UI + logic (Tasks / Bridge / Faucet)
+- Berkas utama (Android)
+- ```index.html```    → UI + logic and Capacitor (WebView native)
 ## 🔐 Data & Privasi
 - Disimpan lokal (per-user, per-device) di folder data aplikasi Electron.
 - Tidak ada server, akun, atau telemetri.
