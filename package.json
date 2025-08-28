@@ -1,0 +1,49 @@
+{
+  "name": "airdrop-garapan-manager",
+  "version": "1.0.0",
+  "description": "Offline Airdrop Umbrella Manager (Tasks, Bridge, Faucet)",
+  "main": "main.js",
+  "author": "Kenji Subagja",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^31.3.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "id.kenji.airdropgarapan",
+    "productName": "Airdrop Umbrella Manager",
+    "files": [
+      "main.js",
+      "preload.js",
+      "index.html",
+      "icon.ico"
+    ],
+    "directories": {
+      "buildResources": "."
+    },
+    "asar": true,
+    "win": {
+      "target": [
+        { "target": "nsis", "arch": ["x64"] },
+        { "target": "portable", "arch": ["x64"] }
+      ],
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": "always",
+      "createStartMenuShortcut": true,
+      "shortcutName": "Airdrop Umbrella Manager",
+      "runAfterFinish": true,
+      "artifactName": "Airdrop-Umbrella-Manager-Setup-${version}.exe"
+    },
+    "portable": {
+      "artifactName": "Airdrop-Umbrella-Manager-Portable-${version}.exe"
+    }
+  }
+}
