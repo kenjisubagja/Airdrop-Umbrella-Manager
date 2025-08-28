@@ -62,3 +62,25 @@ Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-M
 npm install
 npm run start     # jalankan mode dev
 npm run dist      # build installer + portable (hasil di folder dist/)
+```
+
+Output build
+
+```Airdrop-Garapan-Manager-Setup-x.y.z.exe``` — Installer (membuat shortcut).
+
+```Airdrop-Garapan-Manager-Portable-x.y.z.exe```— Portable.
+
+```win-unpacked/``` — Folder portable mentah.
+
+Berkas utama
+- ```main.js ```      → proses utama Electron (window, path)
+- ```preload.js```    → jembatan aman untuk buka link via Chrome
+- ```index.html```    → UI + logic (Tasks / Bridge / Faucet)
+## 🔐 Data & Privasi
+- Disimpan lokal (per-user, per-device) di folder data aplikasi Electron.
+- Tidak ada server, akun, atau telemetri.
+- Uninstall akan menghapus data lokal aplikasi.
+
+## Contact Me: 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kenjisubagja)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kenjisubagja)
