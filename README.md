@@ -20,9 +20,9 @@
 <p align="center">
   <img src="https://github.com/kenjisubagja/coba/blob/main/photo_2025-08-29_02-22-30.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
 </p>
-<p align="center">preview di pc</center>
+<p align="center">preview di android</center>
 <p align="center">
-  <img src="https://github.com/kenjisubagja/coba/blob/main/photo_2025-08-29_02-22-30.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
+  <img src="https://github.com/kenjisubagja/coba/blob/main/photo_2025-08-29_14-12-24.jpg" alt="Tangkapan layar Airdrop Garapan Manager" width="820">
 </p>
 
 Aplikasi desktop **offline** (Electron) untuk mengatur garapan airdrop.  
