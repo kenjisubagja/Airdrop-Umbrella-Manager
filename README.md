@@ -39,6 +39,7 @@ Kelola **Tasks**, **Bridge**, dan **Faucet** dengan cepat, simpel, dan **privat 
 - **Bridge** & **Faucet**
   - Simpan “Bridge ke” + “Link”, **Open**, **Edit**, **Hapus**.
 - **Buka link via Chrome** (fallback ke browser default jika Chrome tidak ada).
+- - **Buka link bisa di pilih** (Buat adnroid bisa di pilih browser atau bisa copas link).
 - **Offline & Privat** — data disimpan lokal di profil aplikasi (`localStorage`).
 
 ---
