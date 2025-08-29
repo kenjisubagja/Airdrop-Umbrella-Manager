@@ -67,6 +67,9 @@ npm install
 npm run start     # jalankan mode dev
 npm run dist      # build installer + portable (hasil di folder dist/)
 ```
+```bash
+Cordova atau React Native (pake android studio)
+```
 
 Output build
 
