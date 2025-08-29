@@ -17,7 +17,7 @@
   </a>
 </p>
 
-Aplikasi desktop **offline** (Electron) untuk mengatur garapan airdrop.  
+Aplikasi desktop dan android **offline**  untuk mengatur garapan airdrop.  
 Kelola **Tasks**, **Bridge**, dan **Faucet** dengan cepat, simpel, dan **privat (local only)**.
 
 ---
