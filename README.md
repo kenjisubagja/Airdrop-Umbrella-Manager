@@ -40,7 +40,7 @@ Kelola **Tasks**, **Bridge**, dan **Faucet** dengan cepat, simpel, dan **privat 
 
 ---
 
-## 📦 Unduh (Pengguna)
+## 📦 Unduh aplikasi dan Preview aplikasi
 
 Masuk ke halaman **[Releases](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases)** dan ambil:
 - `Airdrop-Umbrella-Manager-Setup-1.0.0.exe` → **Installer** (disarankan)  
