@@ -1,4 +1,4 @@
-# Airdrop Umbrella Manager
+# Airdrop Umbrella Manager Update Klik  :  [V1.2.0](https://github.com/kenjisubagja/Airdrop-Umbrella-Manager-V1.2.0)
 
 <p align="center">
   <a href="https://github.com/kenjisubagja/Airdrop-Umbrella-Manager/releases">
